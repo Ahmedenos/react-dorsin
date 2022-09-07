@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-dorsin/static/css/main.3597f550.css",
+    "main.js": "/react-dorsin/static/js/main.325207d7.js",
+    "static/js/787.61eee022.chunk.js": "/react-dorsin/static/js/787.61eee022.chunk.js",
+    "static/media/bg-home.jpg": "/react-dorsin/static/media/bg-home.54f33acfa5a76720d4d5.jpg",
+    "index.html": "/react-dorsin/index.html",
+    "main.3597f550.css.map": "/react-dorsin/static/css/main.3597f550.css.map",
+    "main.325207d7.js.map": "/react-dorsin/static/js/main.325207d7.js.map",
+    "787.61eee022.chunk.js.map": "/react-dorsin/static/js/787.61eee022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3597f550.css",
+    "static/js/main.325207d7.js"
+  ]
+}
